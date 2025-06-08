@@ -21,12 +21,11 @@
 **Languages & Skills**  
 <img height="30" src="https://img.icons8.com/color/48/python.png" alt="Python" />&nbsp;
 <img height="30" src="https://img.icons8.com/color/48/sql.png" alt="SQL" />&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/excel.png" alt="Excel" />
+<img height="30" src="https://img.icons8.com/color/48/excel.png" alt="MS Excel" />
 
 **Tools & Platforms**  
 <img height="30" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />&nbsp;
 <img height="30" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />&nbsp;
 <img height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/anaconda.png" alt="Anaconda" />
 
 ---

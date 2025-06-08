@@ -25,7 +25,8 @@
 **Tools & Platforms:**  
 <img height="30" src="https://img.icons8.com/color/48/power-bi.png"/>  
 <img height="30" src="https://img.icons8.com/color/48/tableau-software.png"/>   
-<img height="30" src="https://img.icons8.com/color/48/anaconda.png"/>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/anaconda/anaconda.png" alt="Anaconda"/>
+
 
 
 ---
